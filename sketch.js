@@ -1,6 +1,7 @@
 // Serial Input p5
 // midterm
 // shoot the pigeons
+//HEY MINT I CAN DELETE YOUR CODE BUT I WONT IM A NICE HOOMAN MEOW!!
 
 var serial;
 var portName = "/dev/cu.usbmodem1411";
